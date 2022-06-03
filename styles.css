@@ -1,0 +1,46 @@
+.headerapp {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    margin-top: 16px;
+    
+}  
+    
+.subtituloapp {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    
+}
+
+.botonuser {
+
+    background-color: white;
+}
+
+.Nombre {
+
+    background-color: white;
+    margin:16px
+}
+
+.number-control {
+    width: 100%;
+}
+
+.table {
+
+margin-top: 25px;
+}
+
+.div-total {
+    margin-left: 80px;
+    margin-top: 16px;
+}
+
+.div-gasto {
+
+margin-left:80px;
+margin-top: 16px;
+}
+
